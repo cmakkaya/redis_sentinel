@@ -1,17 +1,3 @@
-# https://blog.devops.dev/redis-cluster-and-sentinel-with-docker-from-zero-to-hero-part-iv-63ba9d196cc3
-# sentinel.config Dosyasıda var, altta.
-# chmod 666 sentinel.conf  YAP
-# https://chatgpt.com/c/68593646-dc9c-8006-973d-c4f6a59cfd6f burda güncelledim. 
-# Soru: 1. docker-compose.yaml dosyam altta:  2. sentinel.conf dosyam altta:  3.  src/Test.Console/Dockerfile dosyası altta:  4. src/Test.Console/Program.cs dosyası altta:  5. src/Test.Console/Test.Console.csproj  dosyası altta:  Yukardakiler ile şunları yapacam:
-# 1 Master + 2 Slaves + 3 Sentinels ile bir kurulum gerçekleştirecem. 
-# 1 Master + 2 Slaves + 3 Sentinels konteynırlarım  aynı Azure VM'de çalışıyor Public IP address: 20.93.71.146  Private IP address: 10.8.0.16
-# Postgre DB kullanıyorum, onu cache'liyecem.  Postgre DB bu Azure VM'de çalışıyor;  Test-Postgre -->Public IP 74.178.92.83:5432  	Private IP 10.8.0.8
-# Uygulamam (Java) bu Azure VM'de çalışıyor; Test-App-VM --> Public IP 4.231.169.29		Private IP 10.8.0.14
-# Bu bilgileri değerlendrerek şu soruyu yanıtla:
-# 1. Yukardaki Docker Compose file ve sentinel.conf  dosyam doğrumu bu şekilde hatasız çalışırmı önerilerin neler adım adım açıkla.
-# 2. test-console-app ne işe yarıyor?
-# 3. Benim uygulamam ve DB'e redis nasıl bağlanacak bu veriler yeterlimi?
-
 services:
   redis-master:
     container_name: redis-master
@@ -114,13 +100,3 @@ volumes:
   redis-master-data:
   redis-slave1-data:
   redis-slave2-data:
-      
-#  test-console-app:
-#    build:
-#      context: .
-#      dockerfile: ./src/Test.Console/Dockerfile
-#    container_name: test-console-app
-#    depends_on:
-#      - redis-sentinel
-#    networks:
-#      - redis-network
