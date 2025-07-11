@@ -1,5 +1,5 @@
-# Redis Tutorial: How to Cache Databases Using Redis Sentinel
-
+# Redis Sentinel
+##  Redis Tutorial: How to Cache Databases Using Redis Sentinel
 ![redis-setup](https://github.com/user-attachments/assets/d8672f5a-5f55-4752-af5e-be7a067030ed)
 
 In the world of modern application development, performance and responsiveness are everything. This is where caching comes in. Caching is a powerful technique used to temporarily store copies of data so that future requests can be served faster.
