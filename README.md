@@ -13,23 +13,30 @@ Whether you're new to caching or looking to strengthen your understanding of Red
 
 ## Topics we will cover:
 1. Introduction
-1.1. What is Change Data Capture (CDC)?
-1.2. Apache Kafka
-1.3. Kafka Connect
-1.6. Kafka UI
-1.5. Debezium
-1.6. Debezium UI
-1.7. PostgreSQL
-2. Setting up the CDC environment (CDC Pipeline)
-3. Creating the CDC connector
-4. Verify Connection and Functionality
-5. Monitoring the Changes in PostgreSQL with CDC as a "Kafka Consumer Message"
-6. Using Kafka UI
-7. Using Debezium UI
-8. Clean Up
-9. Conclusion
-10. Next post: "Caching Azure Database for PostgreSQL Flexible Server Using Redis Sentinel"
-11. References
+* 1.1. What is Caching?
+* 1.2. Common Types of Caches
+* 1.2.1. Web cache (e.g., CDN)
+* 1.2.2. Database cache
+* 1.2.3. Client-side (Browser cache)
+* 1.2.4. CPU cache
+* 1.2.5. DNS cache
+* 1.3. What are the different database caching strategies?
+2. Redis
+* 2.1. What is Redis?
+* 2.2. Use cases
+* 2.3. Redis Cluster - Redis Sentinel
+* 2.4. Redis vs. Memcached
+3. Redis Insight
+4. Hands-on: Setting up the Redis Sentinel
+5. Verify Connection and Functionality
+6. Using Redis Insight
+7. Checking whether the Failover Test is working or not 
+8. Testing whether the new master actually accepts writes
+9. Clean Up
+10. Conclusion
+11. Next post: "Caching Azure Database for PostgreSQL Flexible Server Using Redis Sentinel"
+12. References
+
 
 ## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
 
