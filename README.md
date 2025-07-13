@@ -61,8 +61,6 @@ I hope they are useful to you.
 <img width="1227" height="966" alt="image" src="https://github.com/user-attachments/assets/2414247d-443a-46f9-8cf7-fcec67bf6b59" />
 
 
-  
-
 ## Connect with me 📫 You can learn more about me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
