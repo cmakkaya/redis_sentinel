@@ -3,8 +3,12 @@
 ![redis-setup](https://github.com/user-attachments/assets/d8672f5a-5f55-4752-af5e-be7a067030ed)
 
 In the world of modern application development, performance and responsiveness are everything. This is where caching comes in. Caching is a powerful technique used to temporarily store copies of data so that future requests can be served faster.
+
 Do you want to improve the app's performance with Redis?  In this article, we'll explore the fundamentals of caching, discuss various types of cache mechanisms, and take a deeper look into Redis, one of the most popular in-memory data stores used for caching today.
-We'll not only cover theoretical concepts like caching strategies in databases, but also get hands-on with Redis Sentinel, a high availability solution for Redis. You'll learn how to set it up, test failover, monitor behavior using Redis Insight, and validate whether the new master node properly accepts writes after a failover.
+
+We'll not only cover theoretical concepts like caching strategies in databases, but also get hands-on with Redis Sentinel, a high availability solution for Redis. 
+
+You'll learn how to set it up, test failover, monitor behavior using Redis Insight, and validate whether the new master node properly accepts writes after a failover.
 Whether you're new to caching or looking to strengthen your understanding of Redis high availability, this article aims to provide a clear, practical path from theory to real-world application, and most importantly, we'll put theory into practice through hands-on examples that you can apply in your own environment.
 
 ## 📗 Medium Articles Link:
