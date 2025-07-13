@@ -1,7 +1,7 @@
 # Boost Your App Speed: Redis Sentinel
 ## Step-by-Step Tutorial: Caching Your Database using Redis Sentinel and Redis Insight
 ![redis-setup](https://github.com/user-attachments/assets/d8672f5a-5f55-4752-af5e-be7a067030ed)
-
+## Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide
 In the world of modern application development, performance and responsiveness are everything. This is where caching comes in. Caching is a powerful technique used to temporarily store copies of data so that future requests can be served faster.
 
 Would you like to improve the app's performance using Redis? In this article, we'll explore the fundamentals of caching, discuss various types of cache mechanisms, and take a deeper look into Redis, one of the most popular in-memory data stores used for caching today.
