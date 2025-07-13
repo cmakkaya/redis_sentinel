@@ -1,5 +1,5 @@
 # Boost Your App Speed: Redis Sentinel
-## Step-by-Step Tutorial: Caching Your Database with Redis Sentinel.
+## Step-by-Step Tutorial: Caching Your Database using Redis Sentinel and Redis Insight
 ![redis-setup](https://github.com/user-attachments/assets/d8672f5a-5f55-4752-af5e-be7a067030ed)
 
 In the world of modern application development, performance and responsiveness are everything. This is where caching comes in. Caching is a powerful technique used to temporarily store copies of data so that future requests can be served faster.
@@ -12,7 +12,9 @@ You'll learn how to set it up, test failover, monitor behavior using Redis Insig
 Whether you're new to caching or looking to strengthen your understanding of Redis high availability, this article aims to provide a clear, practical path from theory to real-world application, and most importantly, we'll put theory into practice through hands-on examples that you can apply in your own environment.
 
 ## 📗 Medium Articles Link:
-- [📝Mastering Redis: Build a Highly Available Redis Cache with Redis Sentinel and Redis Insight - A Hands-on Guide]()
+- [📝Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide]()
+
+Learn how to build a highly available and scalable Redis database cache using Redis Sentinel. Boost your app's performance with this hands-on guide that covers caching strategies, Sentinel setup, failover testing, and Redis Insight monitoring.
 
 ![redisuı](https://github.com/user-attachments/assets/341ce069-6980-4e5f-8e42-3985d06ef547)
 ![redisuı2](https://github.com/user-attachments/assets/4fb5f8fd-d918-400a-bf54-3612945e379f)
