@@ -12,6 +12,7 @@ You'll learn how to set it up, test failover, monitor behavior using Redis Insig
 Whether you're new to caching or looking to strengthen your understanding of Redis high availability, this article aims to provide a clear, practical path from theory to real-world application, and most importantly, we'll put theory into practice through hands-on examples that you can apply in your own environment.
 
 ## 📗 Medium Articles Link:
+
 - [📝Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide]()
 
 Learn how to build a highly available and scalable Redis database cache using Redis Sentinel. Boost your app's performance with this hands-on guide that covers caching strategies, Sentinel setup, failover testing, and Redis Insight monitoring.
