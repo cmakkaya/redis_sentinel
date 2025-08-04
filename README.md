@@ -14,7 +14,7 @@ Whether you're new to caching or looking to strengthen your understanding of Red
 
 ## 📗 Medium Articles Link:
 
-- [📝Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide]()
+- [📝Boost App Speed Using Redis Sentinel + Insight: Build a Highly Available Database Cache - A Hands-On Guide](https://cmakkaya.medium.com/boost-app-speed-using-redis-sentinel-insight-build-a-highly-available-database-cache-a-dacd71d929d0)
 
 Learn how to build a highly available and scalable Redis database cache using Redis Sentinel. Boost your app's performance with this hands-on guide that covers caching strategies, Sentinel setup, failover testing, and Redis Insight monitoring.
 
